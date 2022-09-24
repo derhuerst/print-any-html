@@ -3,7 +3,6 @@
 **Let the browser print any HTML string.**
 
 [![npm version](https://img.shields.io/npm/v/print-any-html.svg)](https://www.npmjs.com/package/print-any-html)
-[![build status](https://img.shields.io/travis/derhuerst/print-any-html.svg)](https://travis-ci.org/derhuerst/print-any-html)
 [![dependency status](https://img.shields.io/david/derhuerst/print-any-html.svg)](https://david-dm.org/derhuerst/print-any-html)
 [![dev dependency status](https://img.shields.io/david/dev/derhuerst/print-any-html.svg)](https://david-dm.org/derhuerst/print-any-html#info=devDependencies)
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/print-any-html.svg)
